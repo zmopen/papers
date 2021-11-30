@@ -1,2 +1,2 @@
 # papers
-Share the papers i've read
+Share the papers I've read. All the papers are downloaded from the internet.
